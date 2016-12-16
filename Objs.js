@@ -57,3 +57,14 @@ this.checkHit = function (xHitLoc, yHitLoc) {
 }
    
 
+
+      console.log(this.hitSplats.length);
+  }
+
+  return (paintTarget);
+};
+
+
+}
+   
+
